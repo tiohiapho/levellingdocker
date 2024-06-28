@@ -20,7 +20,9 @@ Relogin your workstation or restart your machine or run
 
 or 
 
-`$ su - [username]` to refresh group membership on the current terminal
+`$ su - [username]` 
+
+to refresh group membership on the current terminal
 
 Run your first docker command
 
